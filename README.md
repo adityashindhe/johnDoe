@@ -1,3 +1,5 @@
+# About Me
+
 🔭 I’m currently looking for Data Analyst,Business nalyst roles
 🌱 I’m currently learning Building on my recent Data Analyst certification by exploring advanced features of Power BI and Excel for data analysis and visualization. Enhancing my knowledge of SQL for complex queries and data manipulation. Deepening my understanding of SQL commands and their applications in data processing.
 👯 I’m looking to collaborate on Projects involving data analysis, Business analysis and business intelligence. I'm eager to contribute to open-source projects, collaborate on data-driven solutions, and work with others to develop robust data models and dashboards.
